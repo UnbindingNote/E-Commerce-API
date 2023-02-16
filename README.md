@@ -22,4 +22,4 @@
   ## Questions
   GitHub: [UnbindingNote](https://github.com/UnbindingNote) <br>
   Email: jvonlienen@yahoo.com <br>
-  YouTube: [Walkthrough] (https://youtu.be/Glsg7M-dkoY)
+  YouTube: [Walkthrough](https://youtu.be/Glsg7M-dkoY)
