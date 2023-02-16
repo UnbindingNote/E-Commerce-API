@@ -21,5 +21,5 @@
   
   ## Questions
   GitHub: [UnbindingNote](https://github.com/UnbindingNote) <br>
-  Email: jvonlienen@yahoo.com
+  Email: jvonlienen@yahoo.com <br>
   YouTube: [Walkthrough] (https://youtu.be/Glsg7M-dkoY)
